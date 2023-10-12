@@ -1,0 +1,9 @@
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\negocio\bin\Debug\negocio.dll
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\negocio\bin\Debug\negocio.pdb
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\negocio\bin\Debug\dominio.dll
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\negocio\bin\Debug\dominio.pdb
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\negocio\obj\Debug\negocio.dll
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\negocio\obj\Debug\negocio.pdb

@@ -1,0 +1,6 @@
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\dominio\bin\Debug\dominio.dll
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\dominio\bin\Debug\dominio.pdb
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\dominio\obj\Debug\dominio.dll
+C:\Users\uiiiiiiiii\source\repos\Pokedex-app\dominio\obj\Debug\dominio.pdb
